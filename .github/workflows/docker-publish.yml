@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_USERNAME/cloud-cicd-practical:latest
+          tags: nishamuthusamy/cloud-cicd-practical:latest
